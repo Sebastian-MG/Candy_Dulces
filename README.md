@@ -2,9 +2,10 @@
 Repositorio del código que soluciona el ejercicio "Candy" ![ejercicio](https://github.com/Sebastian-MG/Candy_Dulces/blob/main/Candy.pdf) para la materia Ciencias de la Computación 1.
 
 Lenguajes Utilizados: 
--Python y librería Numpy
 
--Java
+*Python y librería Numpy
+
+*Java
 
 Presentado por:
 
