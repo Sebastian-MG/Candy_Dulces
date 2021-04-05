@@ -1,5 +1,5 @@
 # Candy_Dulces
-Repositorio del código que soluciona el ejercicio "Candy" ![ejercicio](https://github.com/Sebastian-MG/Candy_Dulces/blob/main/Candy.pdf) para la materia Ciencias de la Computación 1.
+Repositorio del código que soluciona el ejercicio "Candy" ![ver_ejercicio](https://github.com/Sebastian-MG/Candy_Dulces/blob/main/Candy.pdf) para la materia Ciencias de la Computación 1.
 
 Lenguajes Utilizados: 
 
