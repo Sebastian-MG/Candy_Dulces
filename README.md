@@ -3,10 +3,14 @@ Repositorio del código que soluciona el ejercicio "Candy" ![ejercicio](https://
 
 Lenguajes Utilizados: 
 -Python y librería Numpy
+
 -Java
 
 Presentado por:
 
 -Juan Sebastian Mancera Gaitan 20171020047
+
 -Cristian Camilo Méndez Trujillo
+
 -Samuel Andrés Romero Bueno
+
