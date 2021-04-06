@@ -14,7 +14,21 @@ def crear_matriz(n_filas):
 
 def elegircajas(matriz):
     # logica para escoger las cajas
-    pass
+    # se hallan las dimensiones de la matriz
+    dimensiones = matriz.shape
+    fila = dimensiones[0]
+    columna = dimensiones[1]
+    matriz_ceros = np.zeros((fila,2))
+    matriz = np.concatenate((matriz_ceros,matriz),axis = 1)
+    for i in range(fila):
+        for j in range(2,columna + 2):
+            matriz[i][j] = max(matriz[i][j-1], matriz[i][j] + matriz[i][j-2])
+    dulces_maximos = [0,0]
+    for i in range(fila):
+        dulces_maximos.append(matriz[i][columna + 1])
+    for i in range(2,fila + 2):
+        dulces_maximos[i] = max(dulces_maximos[i-1], dulces_maximos[i] + dulces_maximos[i-2])
+    return int(dulces_maximos[-1])
 
 def main():
     # filas, columnas de la matriz
