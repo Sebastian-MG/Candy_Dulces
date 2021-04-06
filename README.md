@@ -11,7 +11,7 @@ Presentado por:
 
 -Juan Sebastian Mancera Gaitan 20171020047
 
--Cristian Camilo Méndez Trujillo
+-Cristian Camilo Méndez Trujillo 2019102
 
--Samuel Andrés Romero Bueno
+-Samuel Andrés Romero Bueno 20191020127
 
